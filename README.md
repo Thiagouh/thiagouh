@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/banner.svg" width="100%" alt="Thiago Lorhan, Computer Engineering at UFPB, with a retro terminal showing his broad interests." />
-  <img src="assets/typing.gif" width="100%" alt="Building systems that see. Exploring machine learning. Learning by building." />
+  <img src="assets/typing.gif" width="100%" alt="Learning by building." />
 </p>
 
 <p align="center">
@@ -12,11 +12,24 @@
 
 I'm **Thiago Lorhan**, a Computer Engineering student at **UFPB**, Brazil.
 
-My work and studies focus on **computer vision, machine learning and applied research**. I enjoy understanding the whole pipeline — from data and experiments to a working system.
+I enjoy exploring different areas of computing, understanding how things work, and turning ideas into practical projects. My current research work is part of an Embrapii-supported project.
 
-- **Research:** computer vision and applied machine learning in an Embrapii project.
-- **Community:** TAIL, UFPB's academic artificial intelligence group.
-- **Interests:** object detection, segmentation, tracking and cybersecurity.
+### `research & community`
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/TAILUFPB"><img src="https://github.com/TAILUFPB.png?size=128" width="76" height="76" alt="TAIL logo" /></a><br />
+      <strong>TAIL</strong><br />
+      <sub>Member of the Technology and Artificial Intelligence League at UFPB</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://embrapii.org.br/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/EMBRAPII_Logo.svg" height="58" alt="Embrapii logo" /></a><br />
+      <strong>EMBRAPII</strong><br />
+      <sub>Researcher in an Embrapii-supported project at UFPB</sub>
+    </td>
+  </tr>
+</table>
 
 <img src="assets/section-02.png" width="100%" alt="02 / Toolkit" />
 
