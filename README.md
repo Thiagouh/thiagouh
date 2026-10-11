@@ -17,11 +17,11 @@ I study and build projects in **computer vision and machine learning**, with an 
 
 <p>
   <a href="https://github.com/TAILUFPB"><img src="https://github.com/TAILUFPB.png?size=64" width="48" height="48" alt="TAIL UFPB" /></a>
-  <img src="https://img.shields.io/badge/Embrapii-APPLIED_RESEARCH-168CC5?style=for-the-badge" alt="Embrapii — applied research" />
+  <a href="https://embrapii.org.br/comunicacao/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/EMBRAPII_Logo.svg" height="48" alt="Embrapii" /></a>
 </p>
 
 - **TAIL / UFPB:** participating in the academic artificial intelligence group.
-- **Embrapii project:** working on computer vision applied to electrical infrastructure.
+- **Embrapii:** researcher in an Embrapii-supported project at UFPB.
 
 ### `toolkit/`
 
