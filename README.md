@@ -26,9 +26,7 @@ I study and build projects in **computer vision and machine learning**, with an 
 ### `activity.log`
 
 <p align="center">
-  <a href="https://github.com/Thiagouh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiagouh&bg_color=0d1117&color=78d99c&line=78d99c&point=c9f7d5&area=true&hide_border=true&custom_title=GitHub%20activity%20%E2%80%94%20last%2031%20days" width="100%" alt="GitHub activity over the last 31 days" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Thiagouh/thiagouh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution activity" />
 </p>
 
 ### `toolkit/`
