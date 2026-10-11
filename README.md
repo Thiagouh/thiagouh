@@ -37,39 +37,39 @@ I study and build projects in **computer vision and machine learning**, with an 
 
 ### `on-repeat/` <a href="https://open.spotify.com/"><img src="https://img.shields.io/badge/SPOTIFY-1DB954?style=flat-square&amp;logo=spotify&amp;logoColor=white" alt="Spotify" /></a>
 
-<sub>\`PERSONAL ROTATION\` · 06 TRACKS · PRESS PLAY</sub>
+<sub>PERSONAL ROTATION · 06 TRACKS · CLICK A COVER TO LISTEN</sub>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%">
-      <a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d000048519d957247c6c610cb7c4da1c5" width="120" alt="Echoes, Silence, Patience &amp; Grace album cover" /></a><br />
+      <a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d000048519d957247c6c610cb7c4da1c5" width="156" alt="Echoes, Silence, Patience &amp; Grace album cover" /></a><br />
       <sub>01 / FOO FIGHTERS</sub><br />
       <a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><b>The Pretender</b></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://open.spotify.com/track/5T32tUqF8nBEBd6OsyXLM5"><img src="https://i.scdn.co/image/ab67616d00004851a57ca9e47d038be31c9aee9d" width="120" alt="Scars on Broadway album cover" /></a><br />
+      <a href="https://open.spotify.com/track/5T32tUqF8nBEBd6OsyXLM5"><img src="https://i.scdn.co/image/ab67616d00004851a57ca9e47d038be31c9aee9d" width="156" alt="Scars on Broadway album cover" /></a><br />
       <sub>02 / SCARS ON BROADWAY</sub><br />
       <a href="https://open.spotify.com/track/5T32tUqF8nBEBd6OsyXLM5"><b>Whoring Streets</b></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"><img src="https://i.scdn.co/image/ab67616d00004851c34064a3c5e4a25892a091f3" width="120" alt="Nightmare album cover" /></a><br />
+      <a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"><img src="https://i.scdn.co/image/ab67616d00004851c34064a3c5e4a25892a091f3" width="156" alt="Nightmare album cover" /></a><br />
       <sub>03 / AVENGED SEVENFOLD</sub><br />
       <a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"><b>Nightmare</b></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"><img src="https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6" width="120" alt="The Dark Side of the Moon album cover" /></a><br />
+      <a href="https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"><img src="https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6" width="156" alt="The Dark Side of the Moon album cover" /></a><br />
       <sub>04 / PINK FLOYD</sub><br />
       <a href="https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"><b>Breathe</b></a>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/66TDFKCZpMRfLcgJpa15xq"><img src="https://i.scdn.co/image/ab67616d000048514c4557910606021d3ff391be" width="120" alt="Que c'est triste Venise album cover" /></a><br />
+      <a href="https://open.spotify.com/track/66TDFKCZpMRfLcgJpa15xq"><img src="https://i.scdn.co/image/ab67616d000048514c4557910606021d3ff391be" width="156" alt="Que c'est triste Venise album cover" /></a><br />
       <sub>05 / CHARLES AZNAVOUR</sub><br />
       <a href="https://open.spotify.com/track/66TDFKCZpMRfLcgJpa15xq"><b>Hier encore</b></a>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/40OcSQHDpGOftBi4Hjyegl"><img src="https://i.scdn.co/image/ab67616d000048513d6e956a59affddcc2daa7a8" width="120" alt="Milton album cover" /></a><br />
+      <a href="https://open.spotify.com/track/40OcSQHDpGOftBi4Hjyegl"><img src="https://i.scdn.co/image/ab67616d000048513d6e956a59affddcc2daa7a8" width="156" alt="Milton album cover" /></a><br />
       <sub>06 / MILTON NASCIMENTO</sub><br />
       <a href="https://open.spotify.com/track/40OcSQHDpGOftBi4Hjyegl"><b>Clube da Esquina</b></a>
     </td>
