@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60">
+  <rect width="1200" height="60" fill="#090C18"/>
+  <text x="24" y="38" fill="#B58BFF" font-family="monospace" font-size="17" font-weight="700" letter-spacing="1">04</text>
+  <text x="70" y="38" fill="#E8EAF6" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing=".5">LISTENING LOG</text>
+  <path d="M330 30H1178" stroke="#283149" stroke-width="1"/>
+  <circle cx="1178" cy="30" r="3" fill="#63ECE5"/>
+</svg>

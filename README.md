@@ -1,27 +1,46 @@
 <p align="center">
-  <img src="assets/intro.svg" width="100%" alt="Hi, I'm Thiago Lorhan. Computer Engineering student at UFPB. Working with Computer Vision." />
+  <img src="assets/banner.gif" width="100%" alt="Thiago Lorhan — Computer Vision and Machine Learning. Animated orbital scanner in purple and cyan." />
+  <img src="assets/typing.gif" width="100%" alt="Building systems that see. Exploring machine learning. Learning by building." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiago-lorhan/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-78D99C?style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://github.com/Thiagouh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-PROJECTS-78D99C?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
+  <a href="https://www.linkedin.com/in/thiago-lorhan/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-9765FF?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Thiagouh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE_PROJECTS-50DAD4?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
-### `about.txt`
+<img src="assets/section-01.png" width="100%" alt="01 / About" />
 
-I'm **Thiago Lorhan**, a **Computer Engineering student at UFPB**, Brazil.
+I'm **Thiago Lorhan**, a Computer Engineering student at **UFPB**, Brazil.
 
-I study and build projects in **computer vision and machine learning**, with an interest in cybersecurity. I like understanding the whole pipeline: data, experiments, evaluation and working systems.
+My work and studies focus on **computer vision, machine learning and applied research**. I enjoy understanding the whole pipeline — from data and experiments to a working system.
 
-### `research/`
+- **Research:** computer vision and applied machine learning in an Embrapii project.
+- **Community:** TAIL, UFPB's academic artificial intelligence group.
+- **Interests:** object detection, segmentation, tracking and cybersecurity.
 
-<p>
-  <a href="https://github.com/TAILUFPB"><img src="https://github.com/TAILUFPB.png?size=64" width="48" height="48" alt="TAIL UFPB" /></a>
-  <a href="https://embrapii.org.br/comunicacao/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/EMBRAPII_Logo.svg" height="48" alt="Embrapii" /></a>
+<img src="assets/section-02.png" width="100%" alt="02 / Toolkit" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-090C18?style=for-the-badge&amp;logo=python&amp;logoColor=63ECE5" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-090C18?style=for-the-badge&amp;logo=pytorch&amp;logoColor=B58BFF" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-090C18?style=for-the-badge&amp;logo=opencv&amp;logoColor=63ECE5" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Jupyter-090C18?style=for-the-badge&amp;logo=jupyter&amp;logoColor=B58BFF" alt="Jupyter" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-090C18?style=for-the-badge&amp;logo=c&amp;logoColor=63ECE5" alt="C" />
+  <img src="https://img.shields.io/badge/C++-090C18?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=B58BFF" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-090C18?style=for-the-badge&amp;logo=javascript&amp;logoColor=63ECE5" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Linux-090C18?style=for-the-badge&amp;logo=linux&amp;logoColor=B58BFF" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-090C18?style=for-the-badge&amp;logo=git&amp;logoColor=63ECE5" alt="Git" />
 </p>
 
-- **TAIL / UFPB:** participating in the academic artificial intelligence group.
-- **Embrapii:** researcher in an Embrapii-supported project at UFPB.
+<img src="assets/section-03.png" width="100%" alt="03 / Selected work" />
+
+| Project | Explore |
+| :--- | :--- |
+| **Machine learning datasets** | [Dataset exercises and notebooks →](https://github.com/Thiagouh/ml-datasets-solved) |
+| **Teaching & learning ML** | [My machine learning learning space →](https://github.com/Thiagouh/teaching-and-learning-machine-learning) |
+| **Space Invaders-style game** | [A game project →](https://github.com/Thiagouh/Jogo-estilo-Space-Invaders) |
 
 ### `activity.log`
 
@@ -29,61 +48,14 @@ I study and build projects in **computer vision and machine learning**, with an 
   <img src="https://raw.githubusercontent.com/Thiagouh/thiagouh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution activity" />
 </p>
 
-### `toolkit/`
+<img src="assets/section-04.svg" width="100%" alt="04 / Listening log" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,c,cpp,js,git,linux&amp;theme=dark" alt="Python, PyTorch, OpenCV, C, C++, JavaScript, Git and Linux" />
+<p align="center">
+  <a href="https://www.last.fm/user/Thiagouh">
+    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Thiagouh&amp;count=4&amp;theme=dark&amp;bg_color=090C18&amp;text_color=E8EAF6&amp;artist_color=9BA7BD&amp;meta_color=718096&amp;accent_color=63ECE5&amp;logo_color=63ECE5&amp;width=440&amp;radius=4&amp;art=1&amp;header=0&amp;logo=0&amp;profile=off&amp;username=0&amp;avatar=0&amp;time=1&amp;stats=off&amp;footer=off&amp;loved=off" width="440" alt="Últimas faixas ouvidas no Spotify, sincronizadas pelo Last.fm" />
+  </a>
 </p>
 
-### `on-repeat/` <a href="https://open.spotify.com/"><img src="https://img.shields.io/badge/SPOTIFY-1DB954?style=flat-square&amp;logo=spotify&amp;logoColor=white" alt="Spotify" /></a>
+<br />
 
-<sub>PERSONAL ROTATION · 06 TRACKS · CLICK A COVER TO LISTEN</sub>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><img src="https://i.scdn.co/image/ab67616d0000b2739d957247c6c610cb7c4da1c5" width="220" alt="Echoes, Silence, Patience &amp; Grace album cover" /></a><br />
-      <sub>01 / FOO FIGHTERS</sub><br />
-      <a href="https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"><b>The Pretender</b></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://open.spotify.com/track/5T32tUqF8nBEBd6OsyXLM5"><img src="https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d" width="220" alt="Scars on Broadway album cover" /></a><br />
-      <sub>02 / SCARS ON BROADWAY</sub><br />
-      <a href="https://open.spotify.com/track/5T32tUqF8nBEBd6OsyXLM5"><b>Whoring Streets</b></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"><img src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" width="220" alt="Nightmare album cover" /></a><br />
-      <sub>03 / AVENGED SEVENFOLD</sub><br />
-      <a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"><b>Nightmare</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"><img src="https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6" width="220" alt="The Dark Side of the Moon album cover" /></a><br />
-      <sub>04 / PINK FLOYD</sub><br />
-      <a href="https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"><b>Breathe</b></a>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/66TDFKCZpMRfLcgJpa15xq"><img src="https://i.scdn.co/image/ab67616d0000b2734c4557910606021d3ff391be" width="220" alt="Que c'est triste Venise album cover" /></a><br />
-      <sub>05 / CHARLES AZNAVOUR</sub><br />
-      <a href="https://open.spotify.com/track/66TDFKCZpMRfLcgJpa15xq"><b>Hier encore</b></a>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/40OcSQHDpGOftBi4Hjyegl"><img src="https://i.scdn.co/image/ab67616d0000b2733d6e956a59affddcc2daa7a8" width="220" alt="Milton album cover" /></a><br />
-      <sub>06 / MILTON NASCIMENTO</sub><br />
-      <a href="https://open.spotify.com/track/40OcSQHDpGOftBi4Hjyegl"><b>Clube da Esquina</b></a>
-    </td>
-  </tr>
-</table>
-
-### `projects/`
-
-| Project | Repository |
-| :--- | :--- |
-| Machine learning exercises and notebooks | [ml-datasets-solved](https://github.com/Thiagouh/ml-datasets-solved) |
-| Machine learning study space | [teaching-and-learning-machine-learning](https://github.com/Thiagouh/teaching-and-learning-machine-learning) |
-| Space Invaders-style game | [Jogo-estilo-Space-Invaders](https://github.com/Thiagouh/Jogo-estilo-Space-Invaders) |
-
----
-
-<sub>VT323 by Peter Hull / The VT323 Project Authors. Opening inspired by [Mathieu Ledru's profile](https://github.com/matyo91/matyo91).</sub>
+<img src="assets/footer.png" width="100%" alt="Always curious. Always building." />
