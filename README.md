@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Thiago Lorhan — Computer Vision and Machine Learning. Animated orbital scanner in purple and cyan." />
+  <img src="assets/banner.svg" width="100%" alt="Thiago Lorhan, Computer Engineering at UFPB, with a retro terminal showing his broad interests." />
   <img src="assets/typing.gif" width="100%" alt="Building systems that see. Exploring machine learning. Learning by building." />
 </p>
 
